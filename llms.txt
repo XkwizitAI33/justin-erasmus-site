@@ -1,0 +1,29 @@
+# Justin Erasmus
+
+> Justin Erasmus is a hybrid music producer and AI automation specialist based in Alberton, Gauteng, South Africa. He founded AlgoRythm Hybrid Music Production (AHMP) in 2023 and created the hybrid human + AI artist identity Prismatic Wave. He also runs Business BrAIn (AI and business automation services).
+
+## Key facts
+- Prismatic Wave: hybrid artist identity created by Justin Erasmus. First album: Echo Of The Streets (12 tracks), released 11 February 2025 on Spotify and Apple Music.
+- Justin says Echo Of The Streets was South Africa's first AI album (his claim). TechCentral (19 Oct 2026) reports that Spotify and Apple Music date it to 11 February 2025, more than seven months before a later 2025 album widely reported as South Africa's first AI album.
+- Apple Music lists 37 Prismatic Wave releases (152 tracks), 11 Feb 2025 to 14 Mar 2026. By Justin's own count: 11 albums and 5 EPs in 13 months, plus 20 singles.
+- Justin Erasmus is a member of SAMRO and SAMPRA. Membership is separate from registration of individual works.
+- AlgoRythm 4-Stage Hybrid Music Framework: 1 Concept (human vision + AI exploration), 2 Generation (AI-assisted creation), 3 Human Curation (producer intervention), 4 Production & Delivery (final hybrid master).
+- Media: TechCentral, "AI music is here and the South African rulebook is blank", Fanie van Rooyen, 19 Oct 2026 (independent). SAfm interview, 30 Oct 2026. Alberton Record, 30 Oct 2025 (paid advertorial).
+
+## Pages
+- [About Justin Erasmus](https://xkwizitai33.github.io/justin-erasmus-site/about/): biography and timeline
+- [Prismatic Wave](https://xkwizitai33.github.io/justin-erasmus-site/prismatic-wave/): artist page and discography
+- [AlgoRythm Hybrid Music Production](https://xkwizitai33.github.io/justin-erasmus-site/algorythm-hybrid-music-production/): AHMP and the 4-stage framework
+- [AI in Music](https://xkwizitai33.github.io/justin-erasmus-site/ai-music/)
+- [AI & Business Automation (Business BrAIn)](https://xkwizitai33.github.io/justin-erasmus-site/ai-business-automation/)
+- [Articles & Media](https://xkwizitai33.github.io/justin-erasmus-site/media/)
+- [Media Kit](https://xkwizitai33.github.io/justin-erasmus-site/media-kit/)
+
+## External sources
+- [TechCentral: AI music is here and the South African rulebook is blank](https://techcentral.co.za/ai-music-is-here-and-the-south-african-rulebook-is-blank/287431/)
+- [Spotify: Prismatic Wave](https://open.spotify.com/artist/4q1wMDlETpNlIob1xnVQNA)
+- [Apple Music: Prismatic Wave](https://music.apple.com/za/artist/prismatic-wave/1795750961)
+- [Deezer: Prismatic Wave](https://www.deezer.com/artist/302468021)
+- [SoundBetter: AlgoRythm Hybrid Music Studio](https://soundbetter.com/profiles/742141-algorythm-hybrid-music-studio)
+- [White paper: The AlgoRythm Framework (Academia.edu)](https://www.academia.edu/145367427)
+- [Prismatic Wave music hub](https://xkwizitai33.github.io/prismatic-wave/)
