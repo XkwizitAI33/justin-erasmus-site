@@ -17,7 +17,9 @@
 - [AI in Music](https://xkwizitai33.github.io/justin-erasmus-site/ai-music/)
 - [AI & Business Automation (Business BrAIn)](https://xkwizitai33.github.io/justin-erasmus-site/ai-business-automation/)
 - [Articles & Media](https://xkwizitai33.github.io/justin-erasmus-site/media/)
+- [Press & Story Pack](https://xkwizitai33.github.io/justin-erasmus-site/press/): story summary, verified media (TechCentral, SAfm), interview topics, contact; PDF: https://xkwizitai33.github.io/justin-erasmus-site/assets/justin-erasmus-story-pack.pdf
 - [Media Kit](https://xkwizitai33.github.io/justin-erasmus-site/media-kit/)
+- [Blog](https://xkwizitai33.github.io/justin-erasmus-site/blog/): articles, including https://xkwizitai33.github.io/justin-erasmus-site/blog/808-not-real-drums-ai-music-panic/, https://xkwizitai33.github.io/justin-erasmus-site/blog/not-slop-human-led-ai-music-production/ and https://xkwizitai33.github.io/justin-erasmus-site/blog/ai-music-disclosure-listeners-transparency/
 
 ## External sources
 - [TechCentral: AI music is here and the South African rulebook is blank](https://techcentral.co.za/ai-music-is-here-and-the-south-african-rulebook-is-blank/287431/)
